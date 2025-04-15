@@ -1,0 +1,3 @@
+C:/Users/Aluno/Desktop/Labo5/Laboratorio5/LAB02/empty/build/debug/CMakeFiles/empty.dir
+C:/Users/Aluno/Desktop/Labo5/Laboratorio5/LAB02/empty/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Desktop/Labo5/Laboratorio5/LAB02/empty/build/debug/CMakeFiles/rebuild_cache.dir
